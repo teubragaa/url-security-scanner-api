@@ -33,3 +33,8 @@ dto/         → objetos de entrada e saída
 model/       → entidades do banco de dados
 repository/  → acesso aos dados
 service/     → regras de negócio e análise das URLs
+
+
+Objetivo
+
+Projeto de portfólio voltado ao estudo de APIs REST, Java, Spring Boot, Docker, persistência de dados e fundamentos de segurança web.
